@@ -10,7 +10,7 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+   url: http://blog.autonomybay.com
  - title: GitHub
    url: https://github.com/mfulmer1138
 # - title: StackOverflow
@@ -35,15 +35,15 @@ skills:
  - UX
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
+#blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
 
 #Work experience is required
 roles:
- - title: Senior Engineer
-   start: 2016
+ - title: CTO
+   start: Jan 2016
    end: Ongoing
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+   employer: TradeRocket, Inc.
+   description: TradeRocket is a Atlanta fintech company specificalizing in adaptive software services for the Trade Finance space. We offer services that let buyers pay when they want; that let suppliers get paid when they want; and allow funders to put captial to work. 
  - title: Senior Engineer
    start: 2012
    end: 2016
