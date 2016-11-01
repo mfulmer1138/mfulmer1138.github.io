@@ -25,14 +25,20 @@ skills:
  - Tech Leadership
  - Tech Architecture
  - Fintech
+ - Scalability
+ - Transaction Processing
+ - Big Data
+ - Web
  - REST
+ - UX
  - ETL
  - Ab Initio
  - Python
  - Spring Boot
  - Java
  - SQL
- - UX
+ - C++
+ - C
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
