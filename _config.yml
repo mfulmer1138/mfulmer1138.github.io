@@ -11,16 +11,17 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://blog.autonomybay.com
+# - title: Blog
+#   url: http://blog.autonomybay.com
+ - title: LinkedIn
+   url: https://www.linkedin.com/in/mfulmer
  - title: GitHub
    url: https://github.com/mfulmer1138
 # - title: StackOverflow
 #   url: http://stackoverflow.com/users/258813/rhinds
 # - title: DZone
 #   url: https://dzone.com/users/899489/rhinds.html
- - title: LinkedIn
-   url: https://www.linkedin.com/in/mfulmer
+
 
 #Any buzzword skills you want to include
 skills:
