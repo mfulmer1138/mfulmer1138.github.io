@@ -29,28 +29,34 @@ skills:
  - Fintech
  - Agile/Scrum
  - Blockchain
+ - Hyperledger
  - Big Data
- - Business Analysis
- - Product Development
- - Startup Culture
- - Corporate Culture
- - M&A
  - Automation
  - Scalability
  - Transaction Processing
+ - Microservices
+ - SOA
+ - SaaS
+ - ASP
  - Web
  - REST
  - UX
  - ETL
  - Node
  - Node-RED
- - Ab Initio
  - Python
- - Spring Boot
+ - Spring
  - Java
  - SQL
  - C++
  - C
+ - Ab Initio
+ - Business Analysis
+ - Product Development
+ - Startup Culture
+ - Corporate Culture
+ - M&A
+
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
